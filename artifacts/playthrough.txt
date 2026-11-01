@@ -1,0 +1,19 @@
+PASS: starting resources can establish a complete camp
+PASS: a prepared first camp is achievable before the first wolf warning
+PASS: actual resource gathering, crafting and camp care reaches 72-hour victory
+PASS: all three nightly wolf encounters can be resolved
+PASS: prepared playthrough remains healthy through cold and rain
+PASS: playthrough includes the rain event and water purification
+Camp ready at day 1 15:27
+End: day 4 08:00, health 100.0, food 68.4, water 63.6, warmth 100.0, wolves 3, materials 65
+PASS: mouse click opens the inventory tab
+PASS: mouse click opens the camp tab
+PASS: mouse click switches crafting categories
+PASS: handbook button opens a paused readable guide
+PASS: closing the guide restores play
+PASS: pause button stops survival progression
+PASS: resume button returns to the game
+PASS: victory page opens the journey journal
+PASS: closing the journal preserves the victory state
+PASS: victory screen remains usable after returning from journal
+16 checks, 0 failures
